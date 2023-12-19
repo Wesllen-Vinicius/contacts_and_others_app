@@ -16,6 +16,9 @@ function App() {
         <ImgCenter src={imgCenter} alt="LinkedIn" />
       </Container>
       <Container>
+        <h1>Wesllen Lima | FullStack Developer</h1>
+      </Container>
+      <Container>
         <a
           href="https://www.linkedin.com/in/wesllen-vin%C3%ADcius-dos-santos-lima/"
           target="_blank"
